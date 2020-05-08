@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=MacOs-sierra-CT-light
-Comment=icon theme with appearance an MACOS SIERRA
+Name=Mac Style Icon For DeepinOS
+Comment=icon theme with appearance an MACOS 10.15
 
 Inherits=Adwaita,breeze,breeze-dark,hicolor,gnome
 
